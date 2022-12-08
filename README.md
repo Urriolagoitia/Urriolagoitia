@@ -9,7 +9,7 @@ Una vez seleccionado el codigo a ejecutar, dirijase a la parte superior derecha 
 Configuraciones a tomar en cuenta:
 - Se encuentra seleccionado correctamente el modelo de nuestra plataforma que estamos utilizando?
 - Se encuentra en modo Use ST-Link Debugger?
-- 
+
 Para ello nos dirigimos a la ventana "Options for Target 'Target 1'"
 En la pestaña Device nos aseguramos que este seleccionado STM32F334R8
 En la pestaña "Target" Seleccionamos ✓ Use MicroLIB
